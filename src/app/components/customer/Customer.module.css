@@ -1,0 +1,16 @@
+/* Customer.module.css */
+.animate-scroll {
+  animation: scroll 30s linear infinite; /* Adjust timing as needed */
+  animation-direction: normal;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(
+      100%
+    ); /* Start from outside the viewport on the right side */
+  }
+  100% {
+    transform: translateX(-100%); /* End at the left side */
+  }
+}
