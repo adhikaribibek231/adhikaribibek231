@@ -43,14 +43,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adhikaribibek231/adhikaribibek231/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 📂 Highlighted Projects
 
 #### 🏥 **[ClinicNet](https://github.com/adhikaribibek231/clinicnetv1)** — Django, Python, JavaScript, SQLite  
