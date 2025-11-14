@@ -59,10 +59,11 @@ Cross-platform hospital management system with secure authentication and offline
 ---
 
 ### 🤖 Machine Learning Projects
-- **Seoul Bike Demand Prediction** — TensorFlow, Scikit-learn  
-- **Seed Classification & Clustering** — K-Means, PCA  
-- **California Housing Price Prediction** — Regression & model tuning  
-- **MNIST Digit Classification** — KNN + data augmentation  
+### 🤖 Machine Learning Projects
+- **[Seoul Bike Demand Prediction](https://github.com/adhikaribibek231/MachineLearning/blob/main/bikes_regression.ipynb)** — TensorFlow, Scikit-learn  
+- **[Seed Classification & Clustering](https://github.com/adhikaribibek231/MachineLearning/blob/main/seeds_unsupervised.ipynb)** — K-Means, PCA  
+- **[California Housing Price Prediction](https://github.com/adhikaribibek231/MachineLearning/blob/main/housing.ipynb)** — Regression & model tuning  
+- **[MNIST Digit Classification](https://github.com/adhikaribibek231/MachineLearning/blob/c95942a47d03e65f07b4a241449a8a572d591b74/classification.ipynb)** — KNN + data augmentation  
 
 All linked to their GitHub repos for clean exploration.
 
