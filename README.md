@@ -44,17 +44,20 @@
 ---
 
 ### 📂 Highlighted Projects
-#### 🏥 **ClinicNet** — Django, Python, JavaScript, SQLite  
+
+#### 🏥 **[ClinicNet](https://github.com/adhikaribibek231/clinicnetv1)** — Django, Python, JavaScript, SQLite  
 Clinic management platform supporting appointments, prescriptions, and lab workflows.
 
-#### 🏫 **Class Portal** — PHP, MySQL, HTML, CSS  
+#### 🏫 **[Class Portal](https://github.com/adhikaribibek231/Class-Portal)** — PHP, MySQL, HTML, CSS  
 Role-based education portal where teachers manage courses and students track assignments and grades.
 
-#### 💹 **ProfitMantra** — Streamlit, Python, Scikit-learn, Plotly  
+#### 💹 **[ProfitMantra](https://profitmantra.streamlit.app/)** — Streamlit, Python, Scikit-learn, Plotly  
 Stock analysis app for NEPSE with ML forecasting, live data scraping, and interactive dashboards.
 
-#### 🏨 **Healthpost Management System** — Electron.js, Node.js, MongoDB  
-Cross-platform hospital management system with secure authentication and offline access.
+#### 🏨 **Healthpost Management System** — Electron.js, Node.js, MongoDB *(Private Project)*  
+Cross-platform hospital management system developed under **[Jog Chain Technology](https://www.linkedin.com/company/jog-chain-technology/)** for real healthcare operations.  
+Includes secure authentication, offline access, and optimized workflows for rural health facilities.
+
 
 ---
 
