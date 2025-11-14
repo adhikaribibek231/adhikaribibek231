@@ -6,13 +6,43 @@
 
 ---
 
-### 🧰 Tech Stack
-**Languages:** Python, JavaScript, C, C++, PHP  
-**Frameworks & Libraries:** Django, Node.js, Streamlit, Electron.js, TensorFlow, Scikit-learn  
-**Web:** HTML, CSS, Bootstrap, Tailwind  
-**Databases:** MySQL, MongoDB, SQLite  
-**Tools:** Git, GitHub, WordPress, VS Code  
-**Interests:** ML systems, full-stack apps, automation, applied statistics
+### 🧰 Tech Stack (Badges)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-9C033A?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Django-094C3B?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron.js-2C2E3B?style=for-the-badge&logo=electron&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-6C72CB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+### 📊 Skills Radar
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/skills?username=adhikaribibek231&theme=radical" />
+</p>
 
 ---
 
@@ -36,7 +66,7 @@ Cross-platform hospital management system with secure authentication and offline
 
 ---
 
-### 🤖 Machine Learning Practice Projects
+### 🤖 Machine Learning Projects
 - **Seoul Bike Demand Prediction** — TensorFlow, Scikit-learn  
 - **Seed Classification & Clustering** — K-Means, PCA  
 - **California Housing Price Prediction** — Regression & model tuning  
@@ -59,4 +89,3 @@ All linked to their GitHub repos for clean exploration.
 - Loves clean UI, clean code, and clean data.  
 - Learns by breaking things and rebuilding them better.  
 - Currently sharpening skills in ML, backend architecture, and full-stack development.
-
