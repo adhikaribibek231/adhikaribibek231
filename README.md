@@ -38,14 +38,6 @@
 
 ---
 
-### 📊 Skills Radar
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/skills?username=adhikaribibek231&theme=radical" />
-</p>
-
----
-
 ### 🚧 What I’m Building
 **Adaptive Learning Study Buddy (ALSB)** — a long-term vision for an AI-powered learning companion with semantic search, spaced repetition, personalized study paths, and real-time analytics.
 
