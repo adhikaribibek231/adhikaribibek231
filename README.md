@@ -1,87 +1,153 @@
-<h1 align="center">👋 Hi, I'm Bibek Adhikari</h1>
-<p align="center">
-  <strong>Full-Stack Developer • Data & ML Practitioner</strong><br/>
-  Turning ideas into working, reliable software.
-</p>
+---
+
+# 👋 Hi, I'm **Bibek Adhikari**
+
+### **Data Science • AI/ML Enthusiast • Full-Stack Developer**
+
+I work on machine learning, RAG systems, and backend software with a focus on understanding the fundamentals and improving through real projects.
 
 ---
 
-### 🧰 Tech Stack (Badges)
+## 🧰 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-9C033A?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Django-094C3B?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron.js-2C2E3B?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-9C033A?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-094C3B?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron.js-2C2E3B?style=for-the-badge&logo=electron&logoColor=white"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-6C72CB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ---
 
-### 🚧 What I’m Building
-**Adaptive Learning Study Buddy (ALSB)** — a long-term vision for an AI-powered learning companion with semantic search, spaced repetition, personalized study paths, and real-time analytics.
+## 🧠 About Me
+
+I’m someone who enjoys working with code, data, and machine learning. I try to build things that are useful, and I’m always looking to improve my skills through real projects and experimentation.
 
 ---
 
-### 📂 Highlighted Projects
+## 🚀 Projects (All Linked)
 
-#### 🏥 **[ClinicNet](https://github.com/adhikaribibek231/clinicnetv1)** — Django, Python, JavaScript, SQLite  
-Clinic management platform supporting appointments, prescriptions, and lab workflows.
+### 📚 **Document Ingestion + RAG Backend**
 
-#### 🏫 **[Class Portal](https://github.com/adhikaribibek231/Class-Portal)** — PHP, MySQL, HTML, CSS  
-Role-based education portal where teachers manage courses and students track assignments and grades.
+**FastAPI • Qdrant • Redis • SQLite • DeepSeek-R1:1.5B**
 
-#### 💹 **[ProfitMantra](https://profitmantra.streamlit.app/)** — Streamlit, Python, Scikit-learn, Plotly  
-Stock analysis app for NEPSE with ML forecasting, live data scraping, and interactive dashboards.
+A modular backend that ingests documents, extracts text, chunks content, generates MiniLM embeddings, performs vector search, and answers queries using a **custom RAG pipeline**.
+Supports **multi-turn chat memory** and includes an **LLM-powered interview booking system**.
 
-#### 🏨 **Healthpost Management System** — Electron.js, Node.js, MongoDB *(Private Project)*  
-Cross-platform hospital management system developed under **[Jog Chain Technology](https://www.linkedin.com/company/jog-chain-technology/)** for real healthcare operations.  
-Includes secure authentication, offline access, and optimized workflows for rural health facilities.
-
+**Repo:** [https://github.com/adhikaribibek231/docingestion_and_rag](https://github.com/adhikaribibek231/docingestion_and_rag)
 
 ---
 
-### 🤖 Machine Learning Projects
-### 🤖 Machine Learning Projects
-- **[Seoul Bike Demand Prediction](https://github.com/adhikaribibek231/MachineLearning/blob/main/bikes_regression.ipynb)** — TensorFlow, Scikit-learn  
-- **[Seed Classification & Clustering](https://github.com/adhikaribibek231/MachineLearning/blob/main/seeds_unsupervised.ipynb)** — K-Means, PCA  
-- **[California Housing Price Prediction](https://github.com/adhikaribibek231/MachineLearning/blob/main/housing.ipynb)** — Regression & model tuning  
-- **[MNIST Digit Classification](https://github.com/adhikaribibek231/MachineLearning/blob/c95942a47d03e65f07b4a241449a8a572d591b74/classification.ipynb)** — KNN + data augmentation  
+### 📈 **ProfitMantra (NEPSE Stock Prediction System)**
 
-All linked to their GitHub repos for clean exploration.
+Streamlit • Python • Scikit-learn • Random Forest
+Forecasts NEPSE stock values with live data scraping and interactive dashboards.
+[Live App](https://profitmantra.streamlit.app/)
 
 ---
 
-### 📫 Connect With Me
-**GitHub:** github.com/adhikaribibek231  
-**LinkedIn:** linkedin.com/in/adhikaribibek231  
-**Email:** adhikaribibek231@gmail.com  
+### 🔢 **MNIST Digit Classification**
+
+KNN • Scikit-learn • Data Augmentation
+Handwritten digit recognition improved using synthetic augmentation.
+[Notebook](https://github.com/adhikaribibek231/MachineLearning/blob/c95942a47d03e65f07b4a241449a8a572d591b74/classification.ipynb)
+
+---
+
+### 🌾 **Seed Classification & Clustering**
+
+K-Means • PCA • Seaborn
+Unsupervised clustering of wheat seed varieties for agricultural quality control.
+[Notebook](https://github.com/adhikaribibek231/MachineLearning/blob/main/seeds_unsupervised.ipynb)
+
+---
+
+## 🛠️ Software Engineering Projects
+
+### 🏥 **ClinicNet** — Django, Python, JavaScript
+
+Clinic management system with appointments, prescriptions, and lab workflows.
+Repo: [https://github.com/adhikaribibek231/clinicnetv1](https://github.com/adhikaribibek231/clinicnetv1)
+
+---
+
+### 🎓 **Class Portal** — PHP, MySQL, HTML, CSS
+
+Role-based portal for class management, assignments, and student dashboards.
+Repo: [https://github.com/adhikaribibek231/Class-Portal](https://github.com/adhikaribibek231/Class-Portal)
+
+---
+
+### 🛒 **Product Manager (MERN App)**
+
+MongoDB • Express • React • Node.js • Chakra UI
+CRUD-based product management tool built to learn full-stack design patterns.
+Repo: [https://github.com/adhikaribibek231/mern_product_store](https://github.com/adhikaribibek231/mern_product_store)
+
+---
+
+### 🏨 **Healthpost Management System** *(Private Project)*
+
+Electron.js • Node.js • MongoDB
+Cross-platform hospital management software developed for real healthcare operations under Jog Chain Technology.
+Includes secure authentication, offline mode, and optimized clinic workflows.
+
+---
+
+## 🧠 Long-Term Project
+
+### 🧩 **MindJog**
+
+An adaptive learning platform using AI for summaries, flashcards, spaced repetition, semantic search, and personalized study paths.
+Focused on accessibility and neurodiversity-friendly design.
+
+---
+
+## 🎯 Currently Learning
+
+* **Next.js with TypeScript & React**
+* **Backend architecture patterns**
+* **RAG systems, embeddings, vector databases**
+* **Practical ML model deployment**
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Engineering**
+Kantipur City College, Purbanchal University
+2021 – 2025
+
+---
+
+## 📫 Connect With Me
+
+**GitHub:** github.com/adhikaribibek231
+**LinkedIn:** linkedin.com/in/adhikaribibek231
+**Email:** [adhikaribibek231@gmail.com](mailto:adhikaribibek231@gmail.com)
+**Phone:** 9860257950
 **Location:** Kathmandu, Nepal
 
 ---
-
-### ⚡ A Bit More About Me
-- Enjoys building systems that feel smooth and intentional.  
-- Loves clean UI, clean code, and clean data.  
-- Learns by breaking things and rebuilding them better.  
-- Currently sharpening skills in ML, backend architecture, and full-stack development.
