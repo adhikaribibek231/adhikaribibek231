@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Bibek Adhikari**
 
-### **Data Science • AI/ML Enthusiast • Full-Stack Developer**
+### **Junior Machine Learning Engineer**
 
 I work on machine learning, RAG systems, and backend software with a focus on understanding the fundamentals and improving through real projects.
 
