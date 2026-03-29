@@ -1,35 +1,82 @@
 # 👋 Hi, I'm **Bibek Adhikari**
 
-### **Junior Machine Learning Engineer**
+### **Junior AI Engineer | RAG Systems • LLM Applications • Backend Engineering**
 
-I build machine learning–driven backend systems, with a strong focus on **RAG pipelines**, **LLM-powered applications**, and **production-ready APIs**.
+I build **production-grade AI systems** that combine machine learning with scalable backend infrastructure. My focus is on **RAG pipelines, LLM-powered applications, and high-performance APIs**—turning ideas into reliable, real-world systems.
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages & ML**
-- Python, JavaScript  
-- NumPy, Pandas, Scikit-learn  
+### **Programming & ML**
 
-**Backend & Data**
-- FastAPI, Django, Node.js  
-- MySQL, SQLite, MongoDB, PostgreSQL  
-- Vector Databases: Qdrant, PGVector  
+* Python, JavaScript
+* NumPy, Pandas, Scikit-learn
 
-**AI Systems**
-- Retrieval-Augmented Generation (RAG)  
-- Multi-turn conversational systems  
-- Embeddings & semantic search  
+### **Backend & Infrastructure**
 
-**Tools**
-- Redis (caching), GitHub, GitLab  
+* FastAPI, Django, Node.js
+* Docker, Azure (Linux VM)
+* REST APIs, JWT Authentication
+
+### **Databases**
+
+* PostgreSQL, MySQL, MongoDB, SQLite
+* Redis (caching, session management)
+
+### **Vector Databases**
+
+* Qdrant, PGVector
+
+### **AI Systems**
+
+* Retrieval-Augmented Generation (RAG)
+* LangGraph-based workflows
+* Multi-turn conversational systems
+* Embeddings, semantic search, reranking
+
+### **Tools**
+
+* GitHub, GitLab
 
 ---
 
 ## 🧠 About Me
 
-I enjoy working at the intersection of **machine learning and backend engineering**—turning models and ideas into reliable systems. I focus on clean design, scalability, and learning by building real-world projects.
+I specialize in building **end-to-end AI backends**, from data ingestion and embedding pipelines to deployment and monitoring.
+
+* I enjoy designing **scalable, production-ready architectures**
+* Strong focus on **clean system design and performance optimization**
+* I learn best by **building real-world systems and solving practical problems**
+
+---
+
+## 💼 Experience
+
+### **AI Engineer (Intern)** — *Hobes Tech*
+
+📅 Dec 2025 – Mar 2026
+
+* Built a **production FastAPI backend** for a study-abroad RAG chatbot
+* Designed a **multithreaded document ingestion pipeline** for scalable indexing
+* Implemented **batched embeddings + bulk PostgreSQL inserts** for performance
+* Developed a **PGVector ingestion layer** with idempotent upserts
+* Integrated **LangGraph with PostgreSQL checkpointing** for stateful conversations
+* Improved retrieval via **metadata filtering, reranking, and hybrid validation**
+* Deployed and maintained system on **Azure Linux VM (SSH, monitoring, updates)**
+
+---
+
+### **Full-Stack Developer (Contract)** — *Jog Chain Technology*
+
+📅 Apr 2025 – Sep 2025
+
+* Built an **offline-first hospital management system**
+* Implemented **RBAC and core healthcare workflows** (patients, billing, pharmacy, lab)
+* Developed a **study-abroad consultancy platform**:
+
+  * FastAPI backend (JWT auth, CMS, media uploads)
+  * React/Next.js frontend (admin + public site)
 
 ---
 
@@ -39,12 +86,12 @@ I enjoy working at the intersection of **machine learning and backend engineerin
 
 **FastAPI • Qdrant • Redis • SQLite • DeepSeek-R1**
 
-- End-to-end RAG backend for document ingestion and querying  
-- Text extraction, chunking, embedding generation, and vector search  
-- Multi-turn chat memory with persistent storage  
-- LLM-driven interview booking workflow  
+* Built an end-to-end RAG backend for document ingestion and querying
+* Designed pipelines for **text extraction, chunking, embedding, and vector search**
+* Implemented **multi-turn chat memory with persistent storage**
+* Integrated **LLM-driven workflows for interview booking**
 
-**Repo:** https://github.com/adhikaribibek231/docingestion_and_rag
+🔗 Repo: https://github.com/adhikaribibek231/docingestion_and_rag
 
 ---
 
@@ -52,11 +99,11 @@ I enjoy working at the intersection of **machine learning and backend engineerin
 
 **Python • Scikit-learn • Random Forest • Streamlit**
 
-- Stock prediction using Random Forest regression  
-- User-triggered daily data scraping  
-- Interactive dashboards for visualization  
+* Developed a stock prediction system using **Random Forest regression**
+* Implemented **user-triggered daily data scraping**
+* Built **interactive dashboards** for visualization
 
-**Live App:** https://profitmantra.streamlit.app/
+🔗 Live App: https://profitmantra.streamlit.app/
 
 ---
 
@@ -64,42 +111,31 @@ I enjoy working at the intersection of **machine learning and backend engineerin
 
 **Django • Python**
 
-- Role-based system for patient registration and appointments  
-- Pharmacy inventory with expiry tracking  
-- Lab reports and billing workflows  
+* Built a full-stack clinic management system with **role-based access control (RBAC)**
+* Implemented modules for **patient registration, appointments, billing, and lab reports**
+* Designed a **pharmacy inventory system with expiry tracking**
+* Focused on **real-world healthcare workflows and data consistency**
 
-**Repo:** https://github.com/adhikaribibek231/clinicnetv1
-
----
-
-## 💼 Experience
-
-**AI Engineer (Intern)** — *Hobes Tech*  
-*Dec 2025 – Present*
-- Built and deployed a production FastAPI backend for a study-abroad counseling chatbot  
-- Designed scalable document ingestion and batch embedding pipelines  
-- Implemented PGVector-based vector storage with UPSERT logic  
-- Supported stateful multi-turn conversations with PostgreSQL-backed checkpointing  
-
-**Full-Stack Developer (Contract)** — *Jog Chain Technology*  
-*Apr 2025 – Sep 2025*
-- Co-developed an offline-first hospital management system using Electron.js, Node.js, and MongoDB  
-- Implemented role-based access control and core healthcare workflows  
-- Deployed the system in a rural hospital with limited internet connectivity  
+🔗 Repo: https://github.com/adhikaribibek231/clinicnetv1
 
 ---
+
 
 ## 🎓 Education
 
-**Bachelor of Computer Engineering**  
-Kantipur City College, Purbanchal University  
-2021 – 2025
+**Bachelor of Computer Engineering**
+Kantipur City College, Purbanchal University
+📅 2021 – 2025
 
 ---
 
 ## 📫 Connect With Me
 
-- **GitHub:** https://github.com/adhikaribibek231  
-- **LinkedIn:** https://www.linkedin.com/in/adhikaribibek231  
-- **Email:** adhikaribibek231@gmail.com  
-- **Location:** Kathmandu, Nepal
+* GitHub: https://github.com/adhikaribibek231
+* LinkedIn: https://www.linkedin.com/in/adhikaribibek231
+* Email: [adhikaribibek231@gmail.com](mailto:adhikaribibek231@gmail.com)
+* Location: Kathmandu, Nepal
+
+---
+
+⭐ *Currently focused on building scalable AI systems and improving real-world LLM applications.*
