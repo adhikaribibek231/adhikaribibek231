@@ -6,13 +6,6 @@ I build **production-grade AI systems** that combine machine learning with scala
 
 ---
 
-## 📊 GitHub Stats
-
-![Bibek's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhikaribibek231&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhikaribibek231&layout=compact&langs_count=8)
-
----
-
 ## 🧰 Tech Stack
 
 ### **Programming & ML**
