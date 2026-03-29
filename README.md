@@ -41,16 +41,6 @@ I build **production-grade AI systems** that combine machine learning with scala
 
 ---
 
-## 🧠 About Me
-
-I specialize in building **end-to-end AI backends**, from data ingestion and embedding pipelines to deployment and monitoring.
-
-* I enjoy designing **scalable, production-ready architectures**
-* Strong focus on **clean system design and performance optimization**
-* I learn best by **building real-world systems and solving practical problems**
-
----
-
 ## 💼 Experience
 
 ### **AI Engineer (Intern)** — *Hobes Tech*
