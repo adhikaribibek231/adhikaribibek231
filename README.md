@@ -1,131 +1,57 @@
-# 👋 Hi, I'm **Bibek Adhikari**
+# Bibek Adhikari
 
-### **Junior AI Engineer | RAG Systems • LLM Applications • Backend Engineering**
+AI Software Engineer based in Kathmandu. I build backend systems and LLM applications — mostly RAG pipelines, FastAPI backends, and things that actually run in production. Lately spending more time on ML fundamentals and applying them through projects.
 
-I build **production-grade AI systems** that combine machine learning with scalable backend infrastructure. My focus is on **RAG pipelines, LLM-powered applications, and high-performance APIs**—turning ideas into reliable, real-world systems.
+Open to remote and on-site opportunities.
 
----
-
-## 🧰 Tech Stack
-
-### **Programming & ML**
-
-* Python, JavaScript
-* NumPy, Pandas, Scikit-learn
-
-### **Backend & Infrastructure**
-
-* FastAPI, Django, Node.js
-* Docker, Azure (Linux VM)
-* REST APIs, JWT Authentication
-
-### **Databases**
-
-* PostgreSQL, MySQL, MongoDB, SQLite
-* Redis (caching, session management)
-
-### **Vector Databases**
-
-* Qdrant, PGVector
-
-### **AI Systems**
-
-* Retrieval-Augmented Generation (RAG)
-* LangGraph-based workflows
-* Multi-turn conversational systems
-* Embeddings, semantic search, reranking
-
-### **Tools**
-
-* GitHub, GitLab
+📧 adhikaribibek231@gmail.com · [LinkedIn](https://www.linkedin.com/in/adhikaribibek231/)
 
 ---
 
-## 💼 Experience
+## Tech Stack
 
-### **AI Engineer (Intern)** — *Hobes Tech*
+**Languages** — Python, JavaScript, TypeScript
 
-📅 Dec 2025 – Mar 2026
+**AI/ML** — PyTorch, Scikit-Learn, RAG, LangGraph, LLM multi-turn systems
 
-* Built a **production FastAPI backend** for a study-abroad RAG chatbot
-* Designed a **multithreaded document ingestion pipeline** for scalable indexing
-* Implemented **batched embeddings + bulk PostgreSQL inserts** for performance
-* Developed a **PGVector ingestion layer** with idempotent upserts
-* Integrated **LangGraph with PostgreSQL checkpointing** for stateful conversations
-* Improved retrieval via **metadata filtering, reranking, and hybrid validation**
-* Deployed and maintained system on **Azure Linux VM (SSH, monitoring, updates)**
+**Backend & Databases** — FastAPI, Django, PostgreSQL, MongoDB, Redis, Qdrant, PGVector
+
+**Tools & Infra** — Docker, AWS EC2, Azure, GitHub
 
 ---
 
-### **Full-Stack Developer (Contract)** — *Jog Chain Technology*
+## Selected Projects
 
-📅 Apr 2025 – Sep 2025
+**[Calcinator](https://github.com/adhikaribibek231)** — Handwritten Arithmetic Expression Calculator · PyTorch, OpenCV, FastAPI
 
-* Built an **offline-first hospital management system**
-* Implemented **RBAC and core healthcare workflows** (patients, billing, pharmacy, lab)
-* Developed a **study-abroad consultancy platform**:
+Hybrid architecture separating probabilistic ML perception from deterministic symbolic reasoning. Trained two CNNs from scratch — digit classifier (99.30% accuracy) and a 4-class operator classifier — served via a FastAPI inference endpoint.
 
-  * FastAPI backend (JWT auth, CMS, media uploads)
-  * React/Next.js frontend (admin + public site)
+**[RAG Document Intelligence Backend](https://github.com/adhikaribibek231/docingestion_and_rag)** — FastAPI, Qdrant, Redis, DeepSeek-R1
 
----
+RAG-based document querying and LLM-driven interview booking with multi-turn chat memory and persistent storage.
 
-## 🚀 Selected Projects
+**[ProfitMantra](https://profitmantra.streamlit.app/)** — NEPSE Stock Prediction · Python, Scikit-Learn, Streamlit
 
-### 📚 **Custom RAG-Based Document Intelligence Backend**
+Stock prediction using Random Forest regression with daily data scraping and an interactive dashboard.
 
-**FastAPI • Qdrant • Redis • SQLite • DeepSeek-R1**
+**[ClinicNet](https://github.com/adhikaribibek231/clinicnetv1)** — Clinic Management System · Django
 
-* Built an end-to-end RAG backend for document ingestion and querying
-* Designed pipelines for **text extraction, chunking, embedding, and vector search**
-* Implemented **multi-turn chat memory with persistent storage**
-* Integrated **LLM-driven workflows for interview booking**
-
-🔗 Repo: https://github.com/adhikaribibek231/docingestion_and_rag
+Full-stack clinic management with RBAC, patient registration, appointments, billing, pharmacy inventory with expiry tracking, and lab reports.
 
 ---
 
-### 📈 **ProfitMantra – NEPSE Stock Prediction System**
+## Experience
 
-**Python • Scikit-learn • Random Forest • Streamlit**
+**AI Engineer Intern — Hobes Tech** · Dec 2025 – Mar 2026
 
-* Developed a stock prediction system using **Random Forest regression**
-* Implemented **user-triggered daily data scraping**
-* Built **interactive dashboards** for visualization
+Production RAG chatbot backend, multithreaded document ingestion pipeline, LangGraph stateful conversations, deployed on Azure.
 
-🔗 Live App: https://profitmantra.streamlit.app/
+**Full-Stack Developer — Jog Chain Technology** · Apr 2025 – Present
 
----
-
-### 🏥 **ClinicNet – Clinic Management System**
-
-**Django • Python**
-
-* Built a full-stack clinic management system with **role-based access control (RBAC)**
-* Implemented modules for **patient registration, appointments, billing, and lab reports**
-* Designed a **pharmacy inventory system with expiry tracking**
-* Focused on **real-world healthcare workflows and data consistency**
-
-🔗 Repo: https://github.com/adhikaribibek231/clinicnetv1
+Multiple full-stack apps deployed on AWS EC2 — company portfolio, client consultancy platform, and a hospital workflow desktop app.
 
 ---
 
+## Education
 
-## 🎓 Education
-
-**Bachelor of Computer Engineering**
-Kantipur City College, Purbanchal University
-📅 2021 – 2025
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/adhikaribibek231
-* LinkedIn: https://www.linkedin.com/in/adhikaribibek231
-* Email: [adhikaribibek231@gmail.com](mailto:adhikaribibek231@gmail.com)
-* Location: Kathmandu, Nepal
-
----
-
-⭐ *Currently focused on building scalable AI systems and improving real-world LLM applications.*
+Bachelor of Computer Engineering — Kantipur City College, Purbanchal University · 2021 – 2025
