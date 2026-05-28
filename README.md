@@ -1,10 +1,12 @@
 # Bibek Adhikari
 
-AI Software Engineer based in Kathmandu. I build backend systems and LLM applications — mostly RAG pipelines, FastAPI backends, and things that actually run in production. Lately spending more time on ML fundamentals and applying them through projects.
+Software Engineer based in Kathmandu, focused on AI/ML applications, backend systems, and production-ready full-stack software.
 
-Open to remote and on-site opportunities.
+I build FastAPI backends, RAG pipelines, LLM-powered workflows, and practical software tools that solve real problems. Recently, I have been deepening my ML fundamentals through hands-on projects involving computer vision, document intelligence, and local-first desktop utilities.
 
-📧 adhikaribibek231@gmail.com · [LinkedIn](https://www.linkedin.com/in/adhikaribibek231/)
+Open to remote and on-site software engineering opportunities.
+
+📧 [adhikaribibek231@gmail.com](mailto:adhikaribibek231@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adhikaribibek231/)
 
 ---
 
@@ -12,11 +14,11 @@ Open to remote and on-site opportunities.
 
 **Languages** — Python, JavaScript, TypeScript
 
-**AI/ML** — PyTorch, Scikit-Learn, RAG, LangGraph, LLM multi-turn systems
+**AI/ML** — PyTorch, Scikit-Learn, RAG, LangGraph, LLM systems, multi-turn AI workflows
 
 **Backend & Databases** — FastAPI, Django, PostgreSQL, MongoDB, Redis, Qdrant, PGVector
 
-**Tools & Infra** — Docker, AWS EC2, Azure, GitHub
+**Tools & Infra** — Docker, AWS EC2, Azure, GitHub, Linux
 
 ---
 
@@ -24,34 +26,39 @@ Open to remote and on-site opportunities.
 
 **[Calcinator](https://github.com/adhikaribibek231)** — Handwritten Arithmetic Expression Calculator · PyTorch, OpenCV, FastAPI
 
-Hybrid architecture separating probabilistic ML perception from deterministic symbolic reasoning. Trained two CNNs from scratch — digit classifier (99.30% accuracy) and a 4-class operator classifier — served via a FastAPI inference endpoint.
+Built a handwritten arithmetic recognition system using custom CNNs for digit/operator classification, combining probabilistic ML perception with deterministic symbolic computation to achieve high-confidence expression evaluation.
 
-**[RAG Document Intelligence Backend](https://github.com/adhikaribibek231/docingestion_and_rag)** — FastAPI, Qdrant, Redis, DeepSeek-R1
+**[RAG Document Intelligence Backend](https://github.com/adhikaribibek231/docingestion_and_rag)** — FastAPI, Qdrant, Redis, SQLite, DeepSeek-R1
 
-RAG-based document querying and LLM-driven interview booking with multi-turn chat memory and persistent storage.
+Built a fully local document intelligence backend for recruitment workflows, combining Qdrant vector search, Redis session memory, metadata-aware retrieval, and a stateful natural-language interview scheduling flow.
 
-**[ProfitMantra](https://profitmantra.streamlit.app/)** — NEPSE Stock Prediction · Python, Scikit-Learn, Streamlit
+**[WWC — Wi-Fi With Camera](https://github.com/adhikaribibek231/wifi-with-camera)** — Python, PySide6, ZXing, NetworkManager, netsh
 
-Stock prediction using Random Forest regression with daily data scraping and an interactive dashboard.
+Built and released a privacy-friendly cross-platform desktop app that scans Wi-Fi QR codes via webcam, parses network credentials, and connects users on Linux and Windows without cloud services.
 
 **[ClinicNet](https://github.com/adhikaribibek231/clinicnetv1)** — Clinic Management System · Django
 
-Full-stack clinic management with RBAC, patient registration, appointments, billing, pharmacy inventory with expiry tracking, and lab reports.
+Built a full-stack clinic management system with RBAC, patient registration, appointments, billing, pharmacy inventory with expiry tracking, and lab report workflows.
+
+**[ProfitMantra](https://profitmantra.streamlit.app/)** — NEPSE Stock Prediction · Python, Scikit-Learn, Streamlit
+
+Built a stock prediction dashboard using Random Forest regression, daily market data scraping, and an interactive Streamlit interface for visualizing NEPSE price trends.
 
 ---
 
 ## Experience
 
-**AI Engineer Intern — Hobes Tech** · Dec 2025 – Mar 2026
-
-Production RAG chatbot backend, multithreaded document ingestion pipeline, LangGraph stateful conversations, deployed on Azure.
-
 **Full-Stack Developer — Jog Chain Technology** · Apr 2025 – Present
 
-Multiple full-stack apps deployed on AWS EC2 — company portfolio, client consultancy platform, and a hospital workflow desktop app.
+Building and deploying full-stack web platforms using React, TypeScript, FastAPI, PostgreSQL, Docker, and AWS EC2, including CMS-driven websites, reusable backend infrastructure, and workflow-focused business applications.
+
+**AI Engineer Intern — Hobes Tech** · Dec 2025 – Mar 2026
+
+Worked on a production RAG chatbot backend with FastAPI, document ingestion pipelines, metadata-aware retrieval, LangGraph stateful conversations, and Azure deployment.
 
 ---
 
 ## Education
 
-Bachelor of Computer Engineering — Kantipur City College, Purbanchal University · 2021 – 2025
+**Bachelor of Computer Engineering**
+Kantipur City College, Purbanchal University · 2021 – 2025
