@@ -6,7 +6,7 @@ I build FastAPI backends, RAG pipelines, LLM-powered workflows, and practical so
 
 Open to remote and on-site software engineering opportunities.
 
-📧 [adhikaribibek231@gmail.com](mailto:adhikaribibek231@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adhikaribibek231/)
+📧 [adhikaribibek231@gmail.com](mailto:adhikaribibek231@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adhikaribibek231/) · [GitLab](https://gitlab.com/in/adhikaribibek231/)
 
 ---
 
