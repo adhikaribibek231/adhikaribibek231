@@ -40,7 +40,7 @@ Built and released a privacy-friendly cross-platform desktop app that scans Wi-F
 
 Built a full-stack clinic management system with RBAC, patient registration, appointments, billing, pharmacy inventory with expiry tracking, and lab report workflows.
 
-**[ProfitMantra](https://profitmantra.streamlit.app/)** — NEPSE Stock Prediction · Python, Scikit-Learn, Streamlit
+**[NEPSE-STOCK-ANALYZER](https://github.com/adhikaribibek231/NEPSE-STOCK-ANALYZER)** — NEPSE Stock Prediction · Python, Scikit-Learn, Streamlit
 
 Built a stock prediction dashboard using Random Forest regression, daily market data scraping, and an interactive Streamlit interface for visualizing NEPSE price trends.
 
