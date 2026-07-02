@@ -57,7 +57,7 @@ I build FastAPI backends, RAG pipelines, LLM-powered workflows, and practical so
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adhikaribibek231&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=adhikaribibek231&theme=tokyonight&hide_border=true" />
 
 <br/>
 
