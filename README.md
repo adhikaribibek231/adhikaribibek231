@@ -52,8 +52,8 @@ I build FastAPI backends, RAG pipelines, LLM-powered workflows, and practical so
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-omega-tawny-65.vercel.app/api?username=adhikaribibek231&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats-omega-tawny-65.vercel.app/api/top-langs/?username=adhikaribibek231&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=jupyter%20notebook&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats-omega-tawny-65.vercel.app/api?username=adhikaribibek231&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=0" />
+<img height="165" src="https://github-readme-stats-omega-tawny-65.vercel.app/api/top-langs/?username=adhikaribibek231&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=jupyter%20notebook&cache_seconds=0" />
 
 <br/>
 
